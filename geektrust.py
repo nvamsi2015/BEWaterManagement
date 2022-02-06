@@ -28,7 +28,7 @@ def get_bill(bedrooms, corp, bore, no_of_guests_in_month):
  
     total_bill = corp_bill + bore_bill + tanker_bill
 
-    return total_liters,int(total_bill)     #converting the total bill from float to integer as asked in the problem
+    return total_liters,int(total_bill)     # converting the total bill from float to integer as asked in the problem
 
 
 
