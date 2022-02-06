@@ -3,7 +3,7 @@ import sys
 def get_bill(bedrooms, corp, bore, no_of_guests_in_month):  
     
     if bedrooms == 2:
-        alloted_liters = 900  # 3*10*30 = 900 liters Normally alloted for a 2BHK  every month.
+        alloted_liters = 900  #  3*10*30 = 900 liters Normally alloted for a 2BHK  every month.
     else:
         alloted_liters = 1500  # 5*10*30 = 1500 liters Normally alloted for a 3BHK  every month.  
 
